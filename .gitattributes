@@ -51,3 +51,4 @@
 *.xml filter=lfs diff=lfs merge=lfs -text
 *.java filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
