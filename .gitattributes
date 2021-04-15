@@ -58,3 +58,5 @@
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.properties filter=lfs diff=lfs merge=lfs -text
 *.css filter=lfs diff=lfs merge=lfs -text
+/web/Procfile filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
